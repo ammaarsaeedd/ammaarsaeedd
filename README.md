@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ammaarsaeedd
 - 👀 I’m interested in Web Development and Design
-- 🌱 I’m a Fron-End Developer and a UX/UI Designer
+- 🌱 I’m a Front-End Developer and a UX/UI Designer
 - 💞️ I’m looking to collaborate on your next Website and/or application
 - 📫 How to reach me - ammaarsaeedd@gmail.com
 
